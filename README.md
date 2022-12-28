@@ -22,5 +22,5 @@ Prior to running the script make sure you have the following packages installed 
 Note: To extend the project for new training exercises, ensure the constraints mentioned above are followed and the metadata.csv file contains the training video information.
 
 The image below exemplify the results for real time workout analysis.
-![](https://github.com/meharc/Workout-Analysis-using-Visual-Pose-Correction/blob/main/result.png |width=100)
+![](https://github.com/meharc/Workout-Analysis-using-Visual-Pose-Correction/blob/main/result.png =100x100)
 
