@@ -7,9 +7,7 @@ The project pipeline is inspired from Realtime Indoor Workout Analysis Using Mac
 The project is circumscribed by the following limits:
 
 - Single user per frame.
-
 - Exercises performed in vertical orientation.
-
 - User Position — stand at a minimum distance from the computer to capture the entire user body and the corresponding limbs.
 
 Prior to running the script make sure you have the following packages installed on the machine — pickle, tqdm, cv2. To run the script, follow the steps below:
@@ -22,4 +20,7 @@ Prior to running the script make sure you have the following packages installed 
 - To quit the project, press ‘q’
 
 Note: To extend the project for new training exercises, ensure the constraints mentioned above are followed and the metadata.csv file contains the training video information.
+
+The image below exemplify the results for real time workout analysis.
+![](https://github.com/meharc/Workout-Analysis-using-Visual-Pose-Correction/blob/main/result.png)
 
