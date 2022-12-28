@@ -12,6 +12,8 @@ The project is circumscribed by the following limits:
 
 Prior to running the script make sure you have the following packages installed on the machine — pickle, tqdm, cv2. To run the script, follow the steps below:
 
+- Download the zip folder and create a subfolder called *data*. Create subfolder in *data* folder named after the exercise, and put all videos related to the exercise in the corresponding subfolder. 
+- Create a file *metadata.csv* in *data* folder with 2 columns— 'exerciseName' and 'location'. Put the exercise name and relative (to the *data* folder) path file in *location* column.
 - Run main.py
 - Given the prompt with a list of exercise names, enter your choice of exercise.
 - Automatic video feed will begin.
